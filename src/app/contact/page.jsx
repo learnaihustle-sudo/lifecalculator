@@ -1,0 +1,1 @@
+export default function Page(){return <main className="wrap"><h1 className="section-title">Contact</h1><p className="muted">For now, add your contact email or form provider here before launch.</p></main>}
