@@ -1,0 +1,1 @@
+export default function Page(){return <main className="wrap"><h1 className="section-title">About</h1><p className="muted">The Life Calculator is a growing collection of practical and unusual calculators for money, health, time, home projects, business, travel, parenting, and curiosity.</p></main>}
