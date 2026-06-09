@@ -1,0 +1,1 @@
+export default function Page(){return <main className="wrap"><h1 className="section-title">Privacy Policy</h1><p className="muted">Review this starter policy before launch. Add analytics, ad network, email, and affiliate details when connected.</p></main>}
