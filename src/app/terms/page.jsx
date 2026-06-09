@@ -1,0 +1,1 @@
+export default function TermsPage(){return <main className="wrap"><h1 className="section-title">Terms of Use</h1><div className="card"><p>Use these calculators for education and planning only. Results are estimates unless stated otherwise. You are responsible for verifying important decisions with qualified professionals.</p></div></main>}
