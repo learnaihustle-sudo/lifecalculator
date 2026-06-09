@@ -1,0 +1,1 @@
+export default function PrivacyPage(){return <main className="wrap"><h1 className="section-title">Privacy Policy</h1><div className="card"><p>The Life Calculator is an informational calculator website. Do not enter sensitive private information. Analytics, email capture, affiliate links, and ads may be added as the business grows.</p></div></main>}
