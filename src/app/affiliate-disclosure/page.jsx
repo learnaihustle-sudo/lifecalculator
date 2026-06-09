@@ -1,0 +1,1 @@
+export default function AffiliateDisclosurePage(){return <main className="wrap"><h1 className="section-title">Affiliate Disclosure</h1><div className="card"><p>The Life Calculator may earn commissions from affiliate links. Affiliate placeholders are included so offers can be added later by calculator category.</p></div></main>}
